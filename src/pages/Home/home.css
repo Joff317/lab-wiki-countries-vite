@@ -1,0 +1,21 @@
+.home {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   margin: 70px auto 0;
+   font-size: 20px;
+   justify-content: center;
+   text-align: center;
+}
+
+.list{
+   display: flex;
+   justify-content: center;
+}
+
+.countries-name {
+   list-style: none;
+   border: 1px solid rgb(192, 188, 188);
+   width: 900px;
+   padding: 5px;
+}
